@@ -16,18 +16,9 @@
 - **🔌 Networking Projects**
   - 🌍 [Web Proxy Server](https://github.com/Sourabh878/Web_proxy_server)
 
-- **📘 DSA-Based**
-  - 🌳 [Digital Evolution of Matheran](https://github.com/Sourabh878/DSA-PROJECT)
-
 - **🚖 OOPs-Based**
   - 🚗 [Uber Management System](https://github.com/Sourabh878/OOPS_project)
-
-- **🎨 Front-End Clones**
-  - 📺 [Amazon MiniTV Clone](https://github.com/Sourabh878/AmazoneminiTV.com)
-
-- **🤖 Microcontroller Projects**
-  - 📦 [Automatic Packing System](https://github.com/Sourabh878/Autowrape)
-  - 🏠 [Automatic Roofing System](https://github.com/Sourabh878/Automatic-roofing-system)
+  - 
 
 ---
 
