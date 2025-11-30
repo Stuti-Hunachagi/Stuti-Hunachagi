@@ -28,26 +28,23 @@
 ---
 
 ### 💬 Ask Me About
-`Express.js` • `MongoDB` • `SQL` • `DBMS` • `Operating Systems` • `Microcontrollers` • `Sensors`
+`Express.js` • `MongoDB` • `SQL` • `DBMS` • `Operating Systems`
 
 ---
 
 ### 🧠 Problem Solving Score
 
-- 🧮 **GeeksforGeeks (GFG) Score**:  
+- 🧮 **Code Chef Score**:  
   🟢 **Solved problems** on data structures and algorithms  
-  🔗 [View My GFG Profile](https://www.geeksforgeeks.org/user/sourab8c7w/) 
+  🔗 [View My Code Chef Profile](https://www.codechef.com/users/stuti80)
+  
+ - 🧮 **Leet Code Score**:  
+  🟢 **Solved problems** on data structures and algorithms  
+  🔗 [View My Leet Code Profile](https://leetcode.com/u/stutihunachagi/)
+   
 <p>
   <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solver-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </p>
-
----
-
-### 📫 Let's Connect
-
-- **📧 Email**: `sourabhn878@gmail.com`
-- ⚡ [GitHub Portfolio](https://github.com/Sourabh878)
-- **Linked In**: <link>www.linkedin.com/in/sourabh-nayak-473845284/</link>
 
 ---
 
