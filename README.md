@@ -71,11 +71,11 @@
 
 ### 🔥 Achievements
 
-- **Runner-up in the Inter-Branch Volleyball Tournament (2023–24)**  
-- **Won 2nd Prize in Engineering Exploration (2023–24)**  
-- **Won 2nd Prize in Social Innovation (2023–24)**  
-- **Published a paper on the networking project *"Web Proxy Server"* at the IEEE Conference held in Pune**  
-- **Published a paper in the ML and DL domain titled *"Kidney Stone Size Estimation Using VGG16 Architecture"***
+- **Gold Medal (Top 1%) in the NPTEL Machine Learning course, awarded by IIT Kharagpur (2024-2025).**  
+- **Elite Certification (Top 2%): Completed NPTEL Online Certification in Software Testing with a consolidated score of 77% (Jul-Oct 2025).**  
+- **Elite Certification: Completed NPTEL Online Certification in Social Network Analysis with a consolidated score of 75% (Jul-Oct 2025).**  
+- **Research Publication (ML/DL): Published a paper titled "Kidney Stone Size Estimation Using VGG16 Architecture"***  
+- **Conference Presentation (Networking - GC4T): Presented a research paper on Multithreaded Proxy Server at the IEEE GC4T 2025 conference.***
 - <link>https://github.com/Sourabh878/MY-CERTIFICATES/wiki</link>
 
 
