@@ -59,12 +59,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sourabh878&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sourabh878&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stuti-Hunachagi&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Stuti-Hunachagi&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh878&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stuti-Hunachagi&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -82,5 +82,5 @@
 ### 📟 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sourabh878&style=for-the-badge&color=0e75b6" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Stuti-Hunachagi&style=for-the-badge&color=0e75b6" alt="profile views" />
 </p>
