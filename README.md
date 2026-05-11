@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stuti Hunachagi</h1>
+<h1 align="center">Hi 👋, I'm Stuti K Hunachagi</h1>
 <h3 align="center">🚀 Software Developer | Coding Enthusiastic | Tech Explorer</h3>
 
 <p align="center">
