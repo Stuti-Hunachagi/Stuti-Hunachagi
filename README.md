@@ -77,6 +77,7 @@
 - **Research Publication (ML/DL): Published a paper titled "Kidney Stone Size Estimation Using VGG16 Architecture"***  
 - **Conference Presentation (Networking - GC4T): Presented a research paper on Multithreaded Proxy Server at the IEEE GC4T 2025 conference.***
 - <link>https://github.com/Stuti-Hunachagi/Certificates-And-Achivement/wiki</link>
+- **Secured a Global Rank of 1084 in TCS CodeVita Season 13, demonstrating strong problem-solving and competitive programming skills.**
 ---
 
 ### 📟 Visitor Count
